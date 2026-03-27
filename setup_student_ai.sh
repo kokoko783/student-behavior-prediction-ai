@@ -5,7 +5,7 @@ REPO_NAME="student-behavior-prediction-ai"
 GITHUB_URL="<YOUR_GITHUB_REPO_LINK>"  # buraya kendi GitHub linkini koy
 PYTHON_VERSION="python3"
 
-echo "🚀 Başlıyoruz: $REPO_NAME hazırlığı"
+echo " Başlıyoruz: $REPO_NAME hazırlığı"
 
 # --- Klasör oluştur ---
 mkdir -p $REPO_NAME/{data,models,utils}
